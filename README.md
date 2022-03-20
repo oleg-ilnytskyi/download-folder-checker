@@ -10,6 +10,7 @@ Execution example:\
 `6 files/folders in your Downloads. Dated from 03-19-2022 to 02-22-2022. Time to clean it up?`
 
 Apple script dialog.scpt opens dialog with the message from checkFolder.sh script.\
+`Change the Full path in dialog.scpt before executing`\
 `$ osascript dialog.scpt `
 ![](dialog.png)
 
