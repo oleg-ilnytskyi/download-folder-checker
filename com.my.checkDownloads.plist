@@ -9,7 +9,7 @@
         <key>ProgramArguments</key>
         <array>
                 <string>osascript</string>
-                <string>/Users/olegilnytskyi/workspace/download-folder-checker/dialog.scpt</string>
+                <string>{Full path}/download-folder-checker/dialog.scpt</string>
         </array>
         <key>StartCalendarInterval</key>
         <dict>
@@ -19,8 +19,8 @@
             <integer>17</integer>
         </dict>
         <key>StandardOutPath</key>
-        <string>/Users/olegilnytskyi/workspace/download-folder-checker/launchd.stdout.log</string>
+        <string>{Full path}/download-folder-checker/launchd.stdout.log</string>
         <key>StandardErrorPath</key>
-        <string>/Users/olegilnytskyi/workspace/download-folder-checker/launchd.stderr.log</string>
+        <string>{Full path}/download-folder-checker/launchd.stderr.log</string>
 </dict>
 </plist>
